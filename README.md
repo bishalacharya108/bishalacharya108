@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 📚 I'm currently learning Typescript</p>
+<p align="left">I'm Bishal Acharya.<br><br>- 📚 I'm currently learning Typescript</p>
 
 ###
 
