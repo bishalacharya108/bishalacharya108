@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">I'm Bishal Acharya<br><br>- 📚 I'm currently learning Typescript</h3>
+<h3 align="left">I'm Bishal Acharya<br><br>- 📚 I'm currently learning Typescript and Go</h3>
 
 ###
 
